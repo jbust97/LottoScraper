@@ -4,12 +4,6 @@ from bs4 import BeautifulSoup
 import urllib.request as urllib2
 
 
-def counter(lista):
-    numeros = [0] * 1000
-    for v in lista:
-        numeros[v] = numeros[v] + 1
-    return numeros
-
 def daterange(start_date, end_date):
     for n in range(int ((end_date - start_date).days)):
         yield start_date + timedelta(n)
