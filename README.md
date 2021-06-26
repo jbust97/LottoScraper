@@ -5,6 +5,6 @@ Dependencias:
 2. pip install beautifulsoup4
 
 
-3. ejecutar quiniela.py
-4. esperar a que termine
+3. ejecutar lotto.py
+4. Esperar
 5. ejecutar histo.py
