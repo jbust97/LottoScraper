@@ -1,4 +1,4 @@
-# QuinielaScraper
+# LottoScraper
 
 Dependencias:
 1. pip install matplotlib
